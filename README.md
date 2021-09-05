@@ -1,10 +1,8 @@
 
 
-# Hi there :seungjuAhn: 
+# Hi
 
 
-
-:wave: Hi
 
 - &nbsp; java Developer
 
