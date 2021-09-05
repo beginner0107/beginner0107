@@ -4,7 +4,7 @@
 
 
 
-:wave: Hi there, My name is seungjuAhn
+:wave: Hi
 
 - &nbsp; java Developer
 
