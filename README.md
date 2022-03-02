@@ -1,9 +1,10 @@
+<h3 align="center">:dog: Blog & Email :dog:</h3>
 <p align="center">
 <a href="https://programmingbeginner.tistory.com/"><img src="https://img.shields.io/badge/Blog-00B8FC?style=flat-square&logo=Blog&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/cow0107@gmail.com-1A73E8?style=flat-square"/>
 <img src="https://img.shields.io/badge/cow0107@naver.com-83B81A?style=flat-square&logo=Naver&logoColor=white"/> 
 </p>
-
+<br><br>
 <h3 align="center">:penguin: Tech Stack :penguin:</h3>
 
 <p align="center">Techs that I've used at least once</p>
