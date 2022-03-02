@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://programmingbeginner.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blog&logoColor=white"/></a> 
+</p>
+
 <h3 align="center">:penguin: Tech Stack :penguin:</h3>
 
 <p align="center">Techs that I've used at least once</p>
