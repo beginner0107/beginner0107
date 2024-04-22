@@ -7,7 +7,7 @@
 
 ## Blog
 
-🔗 [Tech Blog](https://computerlove.tistory.com/)
+🔗 <a href="https://computerlove.tistory.com/" target="_blank">Tech Blog</a>
 
 ## Contact
 
