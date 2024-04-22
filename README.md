@@ -1,20 +1,23 @@
-<h3 align="center">:dog: Blog & Email :dog:</h3>
-<p align="center">
-<a href="https://computerlove.tistory.com/"><img src="https://img.shields.io/badge/Blog-00B8FC?style=flat-square&logo=Blog&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/cow0107@gmail.com-1A73E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/cow0107@naver.com-83B81A?style=flat-square&logo=Naver&logoColor=white"/> 
-</p>
-<br><br>
-<h3 align="center">:penguin: Tech Stack :penguin:</h3>
+# Hello World!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeginner0107&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center">Techs that I've used at least once</p>
+## My Skill
 
-<p align="center">
+[![Skill](https://skillicons.dev/icons?i=java,spring,mysql,postgres&theme=light)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+## Blog
+
+🔗 [Tech Blog](https://computerlove.tistory.com/)
+
+## Contact
+
+<a href="mailto:cow0107@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cow0107@gmail.com">
+</a>
+
+<details>
+  <summary>Github Stats ⚡</summary>
   
-</p>
-
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=beginner0107&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginner0107&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
