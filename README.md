@@ -15,8 +15,9 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cow0107@gmail.com">
 </a>
 
+## Github Stats ⚡
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Click</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=beginner0107&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginner0107&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
