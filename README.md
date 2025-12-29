@@ -8,18 +8,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![beginner0107's GitHub stats](https://github-readme-stats.vercel.app/api?username=beginner0107&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginner0107&layout=compact&theme=radical&hide=html,css,svelte&hide_border=true)
-
-</div>
-
----
-
 ## 📝 Blog
 
 [![Tistory](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://computerlove.tistory.com/)
