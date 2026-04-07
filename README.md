@@ -9,5 +9,5 @@ Backend engineer who cares about things actually working correctly
 
 ## Get in Touch
 
-- 📧 cow0107@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/%EC%8A%B9%EC%A3%BC-%EC%95%88-1a2a35275/)
+- mail: cow0107@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/seungjoo-ahn)
